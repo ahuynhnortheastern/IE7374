@@ -2,7 +2,8 @@
 ## Group 23: Ashley Huynh
 
 #############################################################################
-                                Overview
+                               
+                              Overview
                                           
 The project will begin by collecting, cleaning, and preprocessing the CMS datasets, followed by exploratory data analysis and statistical analysis to identify key trends, relationships, and performance metrics. Next, the Retrieval-Augmented Generation (RAG) pipeline will be developed by generating embeddings from the statistical insights, storing them within a vector database, retrieving the most relevant context, and combining that information with carefully designed prompts for the LLM. Different prompting strategies and communication styles will be evaluated using ROUGE, BLEU, and BERTScore, along with qualitative assessments (i.e. readability, factual consistency, fluency, and audience appropriateness). Finally, a simple user interface will be developed to allow users to upload CMS datasets and automatically generate customized summaries, demonstrating the power of Generative AI tools that can transform structured healthcare data into meaningful, actionable insights for a wide range of users. 
 
