@@ -45,5 +45,3 @@ The project analyzes three hospital performance areas:
 The primary question explored is:
 
 > **Can Generative AI communicate the same hospital performance information differently for patients, clinicians, executives, and communities while remaining factually consistent?**
-
-This project was developed for **IE 7374** as an educational demonstration of Generative AI, prompt engineering, healthcare data analysis, and natural language generation.
