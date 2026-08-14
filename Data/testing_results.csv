@@ -1,0 +1,1374 @@
+Facility ID,Facility Name,Audience,Prompt Version,Performance Evidence,Context Evidence,Prompt,Split,Evaluation Source,Generated Narrative,Flesch Reading Ease,Numeric Recall,Numeric Precision,Direction Recall,Generated Words,Compression Ratio
+30023,FLAGSTAFF MEDICAL CENTER,Patient Friendly,1,"Facility: FLAGSTAFF MEDICAL CENTER
+
+Strengths:
+  Healthcare-Associated Infections
+  Overall: Better than the National Benchmark
+  Relative Performance: 0.86 SD from cohort
+
+  Key Measures:
+    - SSI (Colon Surgery): 0.00 Ratio (Observed/Predicted Cases)
+      Cohort Mean: 0.83 | Lower is Better
+    - CLABSI (ICU + select Wards): 0.00 Ratio (Observed/Predicted Cases)
+      Cohort Mean: 0.55 | Lower is Better
+
+Weaknesses:
+  Patient Survey
+
+  Key Measures:
+    - Cleanliness: 2.00 Stars
+      Cohort Mean: 3.00 | Higher is Better
+    - Discharge information: 3.00 Stars
+      Cohort Mean: 3.10 | Higher is Better",,"Rewrite the hospital information for a patient with no healthcare background. Use plain everyday language, short sentences, and explain unfamiliar terms simply. Preserve all numbers, comparisons, and performance meaning. Use contextual measures only as supporting information, not as indicators of performance. Use only the evidence provided.
+
+Performance Evidence:
+Facility: FLAGSTAFF MEDICAL CENTER
+
+Strengths:
+  Healthcare-Associated Infections
+  Overall: Better than the National Benchmark
+  Relative Performance: 0.86 SD from cohort
+
+  Key Measures:
+    - SSI (Colon Surgery): 0.00 Ratio (Observed/Predicted Cases)
+      Cohort Mean: 0.83 | Lower is Better
+    - CLABSI (ICU + select Wards): 0.00 Ratio (Observed/Predicted Cases)
+      Cohort Mean: 0.55 | Lower is Better
+
+Weaknesses:
+  Patient Survey
+
+  Key Measures:
+    - Cleanliness: 2.00 Stars
+      Cohort Mean: 3.00 | Higher is Better
+    - Discharge information: 3.00 Stars
+      Cohort Mean: 3.10 | Higher is Better
+
+Narrative:",Testing,"Facility: FLAGSTAFF MEDICAL CENTER
+
+Strengths:
+  Healthcare-Associated Infections
+  Overall: Better than the National Benchmark
+  Relative Performance: 0.86 SD from cohort
+
+  Key Measures:
+    - SSI (Colon Surgery): 0.00 Ratio (Observed/Predicted Cases)
+      Cohort Mean: 0.83 | Lower is Better
+    - CLABSI (ICU + select Wards): 0.00 Ratio (Observed/Predicted Cases)
+      Cohort Mean: 0.55 | Lower is Better
+
+Weaknesses:
+  Patient Survey
+
+  Key Measures:
+    - Cleanliness: 2.00 Stars
+      Cohort Mean: 3.00 | Higher is Better
+    - Discharge information: 3.00 Stars
+      Cohort Mean: 3.10 | Higher is Better","The facility FLAGSTAFF MEDICAL CENTER has better than the national benchmark in terms of Healthcare-Associated Infections. The patient survey scores are 2.00 stars, and the cleanliness is 2.10 stars.",48.65857142857146,0.1111111111111111,0.5,1.0,29,0.35802469135802467
+30023,FLAGSTAFF MEDICAL CENTER,Executive Summary,1,"Facility: FLAGSTAFF MEDICAL CENTER
+
+Strengths:
+  Healthcare-Associated Infections
+  Overall: Better than the National Benchmark
+  Relative Performance: 0.86 SD from cohort
+
+  Key Measures:
+    - SSI (Colon Surgery): 0.00 Ratio (Observed/Predicted Cases)
+      Cohort Mean: 0.83 | Lower is Better
+    - CLABSI (ICU + select Wards): 0.00 Ratio (Observed/Predicted Cases)
+      Cohort Mean: 0.55 | Lower is Better
+
+Weaknesses:
+  Patient Survey
+
+  Key Measures:
+    - Cleanliness: 2.00 Stars
+      Cohort Mean: 3.00 | Higher is Better
+    - Discharge information: 3.00 Stars
+      Cohort Mean: 3.10 | Higher is Better",,"Rewrite the hospital information as a concise executive briefing for hospital leadership. Prioritize the strongest domain, major risks, and the most important benchmark comparisons. Preserve all quantitative evidence. Use contextual measures only as supporting information, not as indicators of performance. Use only the evidence provided.
+
+Performance Evidence:
+Facility: FLAGSTAFF MEDICAL CENTER
+
+Strengths:
+  Healthcare-Associated Infections
+  Overall: Better than the National Benchmark
+  Relative Performance: 0.86 SD from cohort
+
+  Key Measures:
+    - SSI (Colon Surgery): 0.00 Ratio (Observed/Predicted Cases)
+      Cohort Mean: 0.83 | Lower is Better
+    - CLABSI (ICU + select Wards): 0.00 Ratio (Observed/Predicted Cases)
+      Cohort Mean: 0.55 | Lower is Better
+
+Weaknesses:
+  Patient Survey
+
+  Key Measures:
+    - Cleanliness: 2.00 Stars
+      Cohort Mean: 3.00 | Higher is Better
+    - Discharge information: 3.00 Stars
+      Cohort Mean: 3.10 | Higher is Better
+
+Narrative:",Testing,"Facility: FLAGSTAFF MEDICAL CENTER
+
+Strengths:
+  Healthcare-Associated Infections
+  Overall: Better than the National Benchmark
+  Relative Performance: 0.86 SD from cohort
+
+  Key Measures:
+    - SSI (Colon Surgery): 0.00 Ratio (Observed/Predicted Cases)
+      Cohort Mean: 0.83 | Lower is Better
+    - CLABSI (ICU + select Wards): 0.00 Ratio (Observed/Predicted Cases)
+      Cohort Mean: 0.55 | Lower is Better
+
+Weaknesses:
+  Patient Survey
+
+  Key Measures:
+    - Cleanliness: 2.00 Stars
+      Cohort Mean: 3.00 | Higher is Better
+    - Discharge information: 3.00 Stars
+      Cohort Mean: 3.10 | Higher is Better","The facility FLAGSTAFF MEDICAL CENTER has a strong performance in Healthcare-Associated Infections. The hospital is better than the National Benchmark in this area. However, the hospital has some weaknesses in the patient survey.",36.08460784313729,0.0,0.0,1.0,33,0.4074074074074074
+30023,FLAGSTAFF MEDICAL CENTER,Clinical,1,"Facility: FLAGSTAFF MEDICAL CENTER
+
+Strengths:
+  Healthcare-Associated Infections
+  Overall: Better than the National Benchmark
+  Relative Performance: 0.93 SD from cohort
+
+  Key Measures:
+    - CLABSI (ICU + select Wards): 0.00 Ratio (Observed/Predicted Cases)
+      Cohort Mean: 0.55 | Lower is Better
+    - CAUTI (ICU + select Wards): 0.12 Ratio (Observed/Predicted Cases)
+      Cohort Mean: 0.50 | Lower is Better
+
+Weaknesses:
+  Patient Survey
+
+  Key Measures:
+    - Cleanliness: 2.00 Stars
+      Cohort Mean: 3.00 | Higher is Better
+    - Discharge information: 3.00 Stars
+      Cohort Mean: 3.10 | Higher is Better","Context:
+  Healthcare-Associated Infections
+    - CLABSI (ICU + select Wards): 5851.0 Device Days
+    - CLABSI (ICU + select Wards): 0.0 Cases","Rewrite the hospital information for healthcare professionals. Use appropriate clinical terminology, retain measure-specific detail, and report quantitative comparisons precisely. Do not infer causation or statistical significance. Use contextual measures only as supporting information, not as indicators of performance. Use only the evidence provided.
+
+Performance Evidence:
+Facility: FLAGSTAFF MEDICAL CENTER
+
+Strengths:
+  Healthcare-Associated Infections
+  Overall: Better than the National Benchmark
+  Relative Performance: 0.93 SD from cohort
+
+  Key Measures:
+    - CLABSI (ICU + select Wards): 0.00 Ratio (Observed/Predicted Cases)
+      Cohort Mean: 0.55 | Lower is Better
+    - CAUTI (ICU + select Wards): 0.12 Ratio (Observed/Predicted Cases)
+      Cohort Mean: 0.50 | Lower is Better
+
+Weaknesses:
+  Patient Survey
+
+  Key Measures:
+    - Cleanliness: 2.00 Stars
+      Cohort Mean: 3.00 | Higher is Better
+    - Discharge information: 3.00 Stars
+      Cohort Mean: 3.10 | Higher is Better
+
+Supporting Context:
+Context:
+  Healthcare-Associated Infections
+    - CLABSI (ICU + select Wards): 5851.0 Device Days
+    - CLABSI (ICU + select Wards): 0.0 Cases
+
+Narrative:",Testing,"Facility: FLAGSTAFF MEDICAL CENTER
+
+Strengths:
+  Healthcare-Associated Infections
+  Overall: Better than the National Benchmark
+  Relative Performance: 0.93 SD from cohort
+
+  Key Measures:
+    - CLABSI (ICU + select Wards): 0.00 Ratio (Observed/Predicted Cases)
+      Cohort Mean: 0.55 | Lower is Better
+    - CAUTI (ICU + select Wards): 0.12 Ratio (Observed/Predicted Cases)
+      Cohort Mean: 0.50 | Lower is Better
+
+Weaknesses:
+  Patient Survey
+
+  Key Measures:
+    - Cleanliness: 2.00 Stars
+      Cohort Mean: 3.00 | Higher is Better
+    - Discharge information: 3.00 Stars
+      Cohort Mean: 3.10 | Higher is Better
+Context:
+  Healthcare-Associated Infections
+    - CLABSI (ICU + select Wards): 5851.0 Device Days
+    - CLABSI (ICU + select Wards): 0.0 Cases",Healthcare-Associated Infections - CLABSI (ICU + select wards): 5851.0 Device Days. Cases are 0.0. The Clabsi is 0.00.,47.35238095238097,0.2727272727272727,1.0,0.0,18,0.17475728155339806
+30023,FLAGSTAFF MEDICAL CENTER,Community Report,1,"Facility: FLAGSTAFF MEDICAL CENTER
+
+Strengths:
+  Healthcare-Associated Infections
+  Overall: Better than the National Benchmark
+  Relative Performance: 0.86 SD from cohort
+
+  Key Measures:
+    - SSI (Colon Surgery): 0.00 Ratio (Observed/Predicted Cases)
+      Cohort Mean: 0.83 | Lower is Better
+    - CLABSI (ICU + select Wards): 0.00 Ratio (Observed/Predicted Cases)
+      Cohort Mean: 0.55 | Lower is Better
+
+Weaknesses:
+  Patient Survey
+
+  Key Measures:
+    - Cleanliness: 2.00 Stars
+      Cohort Mean: 3.00 | Higher is Better
+    - Discharge information: 3.00 Stars
+      Cohort Mean: 3.10 | Higher is Better",,"Rewrite the hospital information for a public community report. Use accessible, neutral language and explain the main strengths and weaknesses without technical detail. Preserve all important numerical facts. Use contextual measures only as supporting information, not as indicators of performance. Use only the evidence provided.
+
+Performance Evidence:
+Facility: FLAGSTAFF MEDICAL CENTER
+
+Strengths:
+  Healthcare-Associated Infections
+  Overall: Better than the National Benchmark
+  Relative Performance: 0.86 SD from cohort
+
+  Key Measures:
+    - SSI (Colon Surgery): 0.00 Ratio (Observed/Predicted Cases)
+      Cohort Mean: 0.83 | Lower is Better
+    - CLABSI (ICU + select Wards): 0.00 Ratio (Observed/Predicted Cases)
+      Cohort Mean: 0.55 | Lower is Better
+
+Weaknesses:
+  Patient Survey
+
+  Key Measures:
+    - Cleanliness: 2.00 Stars
+      Cohort Mean: 3.00 | Higher is Better
+    - Discharge information: 3.00 Stars
+      Cohort Mean: 3.10 | Higher is Better
+
+Narrative:",Testing,"Facility: FLAGSTAFF MEDICAL CENTER
+
+Strengths:
+  Healthcare-Associated Infections
+  Overall: Better than the National Benchmark
+  Relative Performance: 0.86 SD from cohort
+
+  Key Measures:
+    - SSI (Colon Surgery): 0.00 Ratio (Observed/Predicted Cases)
+      Cohort Mean: 0.83 | Lower is Better
+    - CLABSI (ICU + select Wards): 0.00 Ratio (Observed/Predicted Cases)
+      Cohort Mean: 0.55 | Lower is Better
+
+Weaknesses:
+  Patient Survey
+
+  Key Measures:
+    - Cleanliness: 2.00 Stars
+      Cohort Mean: 3.00 | Higher is Better
+    - Discharge information: 3.00 Stars
+      Cohort Mean: 3.10 | Higher is Better",FLAGSTAFF MEDICAL CENTER has a better than the national benchmark in terms of Healthcare-Associated Infections. The facility has 2.00 stars in cleanliness and 3.10 in discharge information.,40.79903846153849,0.2222222222222222,1.0,1.0,27,0.3333333333333333
+140065,UCHICAGO MEDICINE ADVENTHEALTH LA GRANGE,Patient Friendly,1,"Facility: UCHICAGO MEDICINE ADVENTHEALTH LA GRANGE
+
+Strengths:
+  Patient Survey
+  Relative Performance: 1.11 SD from cohort
+
+  Key Measures:
+    - Communication about medicines: 4.00 Stars
+      Cohort Mean: 2.25 | Higher is Better
+    - Quietness: 4.00 Stars
+      Cohort Mean: 2.78 | Higher is Better
+
+Weaknesses:
+  Healthcare-Associated Infections
+
+  Key Measures:
+    - Clostridium Difficile: 0.92 Ratio (Observed/Predicted Cases)
+      Cohort Mean: 0.34 | Lower is Better
+    - CAUTI (ICU + select Wards): 0.00 Ratio (Observed/Predicted Cases)
+      Cohort Mean: 0.50 | Lower is Better",,"Rewrite the hospital information for a patient with no healthcare background. Use plain everyday language, short sentences, and explain unfamiliar terms simply. Preserve all numbers, comparisons, and performance meaning. Use contextual measures only as supporting information, not as indicators of performance. Use only the evidence provided.
+
+Performance Evidence:
+Facility: UCHICAGO MEDICINE ADVENTHEALTH LA GRANGE
+
+Strengths:
+  Patient Survey
+  Relative Performance: 1.11 SD from cohort
+
+  Key Measures:
+    - Communication about medicines: 4.00 Stars
+      Cohort Mean: 2.25 | Higher is Better
+    - Quietness: 4.00 Stars
+      Cohort Mean: 2.78 | Higher is Better
+
+Weaknesses:
+  Healthcare-Associated Infections
+
+  Key Measures:
+    - Clostridium Difficile: 0.92 Ratio (Observed/Predicted Cases)
+      Cohort Mean: 0.34 | Lower is Better
+    - CAUTI (ICU + select Wards): 0.00 Ratio (Observed/Predicted Cases)
+      Cohort Mean: 0.50 | Lower is Better
+
+Narrative:",Testing,"Facility: UCHICAGO MEDICINE ADVENTHEALTH LA GRANGE
+
+Strengths:
+  Patient Survey
+  Relative Performance: 1.11 SD from cohort
+
+  Key Measures:
+    - Communication about medicines: 4.00 Stars
+      Cohort Mean: 2.25 | Higher is Better
+    - Quietness: 4.00 Stars
+      Cohort Mean: 2.78 | Higher is Better
+
+Weaknesses:
+  Healthcare-Associated Infections
+
+  Key Measures:
+    - Clostridium Difficile: 0.92 Ratio (Observed/Predicted Cases)
+      Cohort Mean: 0.34 | Lower is Better
+    - CAUTI (ICU + select Wards): 0.00 Ratio (Observed/Predicted Cases)
+      Cohort Mean: 0.50 | Lower is Better",The hospital UCHICAGO MEDICINE ADVENTHEALTH LA GRANGE has a high patient satisfaction rate of 1.11 SD from the cohort. The facility has low noise levels and low healthcare-associated infections.,42.40954022988507,0.1111111111111111,1.0,0.0,29,0.37662337662337664
+140065,UCHICAGO MEDICINE ADVENTHEALTH LA GRANGE,Executive Summary,1,"Facility: UCHICAGO MEDICINE ADVENTHEALTH LA GRANGE
+
+Strengths:
+  Patient Survey
+  Relative Performance: 1.11 SD from cohort
+
+  Key Measures:
+    - Communication about medicines: 4.00 Stars
+      Cohort Mean: 2.25 | Higher is Better
+    - Quietness: 4.00 Stars
+      Cohort Mean: 2.78 | Higher is Better
+
+Weaknesses:
+  Healthcare-Associated Infections
+
+  Key Measures:
+    - Clostridium Difficile: 0.92 Ratio (Observed/Predicted Cases)
+      Cohort Mean: 0.34 | Lower is Better
+    - CAUTI (ICU + select Wards): 0.00 Ratio (Observed/Predicted Cases)
+      Cohort Mean: 0.50 | Lower is Better",,"Rewrite the hospital information as a concise executive briefing for hospital leadership. Prioritize the strongest domain, major risks, and the most important benchmark comparisons. Preserve all quantitative evidence. Use contextual measures only as supporting information, not as indicators of performance. Use only the evidence provided.
+
+Performance Evidence:
+Facility: UCHICAGO MEDICINE ADVENTHEALTH LA GRANGE
+
+Strengths:
+  Patient Survey
+  Relative Performance: 1.11 SD from cohort
+
+  Key Measures:
+    - Communication about medicines: 4.00 Stars
+      Cohort Mean: 2.25 | Higher is Better
+    - Quietness: 4.00 Stars
+      Cohort Mean: 2.78 | Higher is Better
+
+Weaknesses:
+  Healthcare-Associated Infections
+
+  Key Measures:
+    - Clostridium Difficile: 0.92 Ratio (Observed/Predicted Cases)
+      Cohort Mean: 0.34 | Lower is Better
+    - CAUTI (ICU + select Wards): 0.00 Ratio (Observed/Predicted Cases)
+      Cohort Mean: 0.50 | Lower is Better
+
+Narrative:",Testing,"Facility: UCHICAGO MEDICINE ADVENTHEALTH LA GRANGE
+
+Strengths:
+  Patient Survey
+  Relative Performance: 1.11 SD from cohort
+
+  Key Measures:
+    - Communication about medicines: 4.00 Stars
+      Cohort Mean: 2.25 | Higher is Better
+    - Quietness: 4.00 Stars
+      Cohort Mean: 2.78 | Higher is Better
+
+Weaknesses:
+  Healthcare-Associated Infections
+
+  Key Measures:
+    - Clostridium Difficile: 0.92 Ratio (Observed/Predicted Cases)
+      Cohort Mean: 0.34 | Lower is Better
+    - CAUTI (ICU + select Wards): 0.00 Ratio (Observed/Predicted Cases)
+      Cohort Mean: 0.50 | Lower is Better","The facility at UCHICAGO MEDICINE ADVENTHEALTH LA GRANGE has strengths in patient satisfaction, but weaknesses in Healthcare-Associated Infections. The strengths are: Patient Survey Relative Performance: 1.11 SD from cohort Key Measures: - Communication about medicines: 4.00 Stars Cohort Mean: 2.25 | Higher is Better --- Quietness: 4.00 STARS (Cohort Average) Mean = 2.78 | High is better  Healthcare Associated infections: 0.92 Ratio (Observed/Predicted Cases) Coun...",25.997857142857185,0.6666666666666666,1.0,1.0,65,0.8441558441558441
+140065,UCHICAGO MEDICINE ADVENTHEALTH LA GRANGE,Clinical,1,"Facility: UCHICAGO MEDICINE ADVENTHEALTH LA GRANGE
+
+Strengths:
+  Patient Survey
+  Relative Performance: 1.11 SD from cohort
+
+  Key Measures:
+    - Communication about medicines: 4.00 Stars
+      Cohort Mean: 2.25 | Higher is Better
+    - Quietness: 4.00 Stars
+      Cohort Mean: 2.78 | Higher is Better
+
+Weaknesses:
+  Timely and Effective Care
+
+  Key Measures:
+    - Septic Shock 3-Hour Bundle: 77.00 Percent
+      Cohort Mean: 71.21 | Higher is Better
+    - Septic Shock 6-Hour Bundle: 91.00 Percent
+      Cohort Mean: 85.81 | Higher is Better","Context:
+  Healthcare-Associated Infections
+    - CLABSI (ICU + select Wards): 2540.0 Device Days
+    - CLABSI (ICU + select Wards): 0.0 Cases","Rewrite the hospital information for healthcare professionals. Use appropriate clinical terminology, retain measure-specific detail, and report quantitative comparisons precisely. Do not infer causation or statistical significance. Use contextual measures only as supporting information, not as indicators of performance. Use only the evidence provided.
+
+Performance Evidence:
+Facility: UCHICAGO MEDICINE ADVENTHEALTH LA GRANGE
+
+Strengths:
+  Patient Survey
+  Relative Performance: 1.11 SD from cohort
+
+  Key Measures:
+    - Communication about medicines: 4.00 Stars
+      Cohort Mean: 2.25 | Higher is Better
+    - Quietness: 4.00 Stars
+      Cohort Mean: 2.78 | Higher is Better
+
+Weaknesses:
+  Timely and Effective Care
+
+  Key Measures:
+    - Septic Shock 3-Hour Bundle: 77.00 Percent
+      Cohort Mean: 71.21 | Higher is Better
+    - Septic Shock 6-Hour Bundle: 91.00 Percent
+      Cohort Mean: 85.81 | Higher is Better
+
+Supporting Context:
+Context:
+  Healthcare-Associated Infections
+    - CLABSI (ICU + select Wards): 2540.0 Device Days
+    - CLABSI (ICU + select Wards): 0.0 Cases
+
+Narrative:",Testing,"Facility: UCHICAGO MEDICINE ADVENTHEALTH LA GRANGE
+
+Strengths:
+  Patient Survey
+  Relative Performance: 1.11 SD from cohort
+
+  Key Measures:
+    - Communication about medicines: 4.00 Stars
+      Cohort Mean: 2.25 | Higher is Better
+    - Quietness: 4.00 Stars
+      Cohort Mean: 2.78 | Higher is Better
+
+Weaknesses:
+  Timely and Effective Care
+
+  Key Measures:
+    - Septic Shock 3-Hour Bundle: 77.00 Percent
+      Cohort Mean: 71.21 | Higher is Better
+    - Septic Shock 6-Hour Bundle: 91.00 Percent
+      Cohort Mean: 85.81 | Higher is Better
+Context:
+  Healthcare-Associated Infections
+    - CLABSI (ICU + select Wards): 2540.0 Device Days
+    - CLABSI (ICU + select Wards): 0.0 Cases",Healthcare-Associated Infections - CLABSI (ICU + select wards): 2540.0 Device Days Healthcare Associated Cases: 0.0 cases compared to 0 cases.,16.35916666666668,0.15384615384615385,0.6666666666666666,0.0,20,0.20833333333333334
+140065,UCHICAGO MEDICINE ADVENTHEALTH LA GRANGE,Community Report,1,"Facility: UCHICAGO MEDICINE ADVENTHEALTH LA GRANGE
+
+Strengths:
+  Patient Survey
+  Relative Performance: 1.11 SD from cohort
+
+  Key Measures:
+    - Communication about medicines: 4.00 Stars
+      Cohort Mean: 2.25 | Higher is Better
+    - Quietness: 4.00 Stars
+      Cohort Mean: 2.78 | Higher is Better
+
+Weaknesses:
+  Healthcare-Associated Infections
+
+  Key Measures:
+    - Clostridium Difficile: 0.92 Ratio (Observed/Predicted Cases)
+      Cohort Mean: 0.34 | Lower is Better
+    - CAUTI (ICU + select Wards): 0.00 Ratio (Observed/Predicted Cases)
+      Cohort Mean: 0.50 | Lower is Better",,"Rewrite the hospital information for a public community report. Use accessible, neutral language and explain the main strengths and weaknesses without technical detail. Preserve all important numerical facts. Use contextual measures only as supporting information, not as indicators of performance. Use only the evidence provided.
+
+Performance Evidence:
+Facility: UCHICAGO MEDICINE ADVENTHEALTH LA GRANGE
+
+Strengths:
+  Patient Survey
+  Relative Performance: 1.11 SD from cohort
+
+  Key Measures:
+    - Communication about medicines: 4.00 Stars
+      Cohort Mean: 2.25 | Higher is Better
+    - Quietness: 4.00 Stars
+      Cohort Mean: 2.78 | Higher is Better
+
+Weaknesses:
+  Healthcare-Associated Infections
+
+  Key Measures:
+    - Clostridium Difficile: 0.92 Ratio (Observed/Predicted Cases)
+      Cohort Mean: 0.34 | Lower is Better
+    - CAUTI (ICU + select Wards): 0.00 Ratio (Observed/Predicted Cases)
+      Cohort Mean: 0.50 | Lower is Better
+
+Narrative:",Testing,"Facility: UCHICAGO MEDICINE ADVENTHEALTH LA GRANGE
+
+Strengths:
+  Patient Survey
+  Relative Performance: 1.11 SD from cohort
+
+  Key Measures:
+    - Communication about medicines: 4.00 Stars
+      Cohort Mean: 2.25 | Higher is Better
+    - Quietness: 4.00 Stars
+      Cohort Mean: 2.78 | Higher is Better
+
+Weaknesses:
+  Healthcare-Associated Infections
+
+  Key Measures:
+    - Clostridium Difficile: 0.92 Ratio (Observed/Predicted Cases)
+      Cohort Mean: 0.34 | Lower is Better
+    - CAUTI (ICU + select Wards): 0.00 Ratio (Observed/Predicted Cases)
+      Cohort Mean: 0.50 | Lower is Better","UCHICAGO MEDICINE ADVENTHEALTH LA GRANGE is a community hospital in Chicago, Illinois. It has been rated as good by patients. The hospital has good communication about medicines and is quiet. Healthcare-Associated Infections are low.",31.17089285714286,0.0,0.0,0.0,34,0.44155844155844154
+450058,BAPTIST MEDICAL CENTER,Patient Friendly,1,"Facility: BAPTIST MEDICAL CENTER
+
+Strengths:
+  Healthcare-Associated Infections
+  Overall: Better than the National Benchmark
+  Relative Performance: 0.57 SD from cohort
+
+  Key Measures:
+    - Clostridium Difficile: 0.15 Ratio (Observed/Predicted Cases)
+      Cohort Mean: 0.34 | Lower is Better
+    - SSI (Colon Surgery): 0.33 Ratio (Observed/Predicted Cases)
+      Cohort Mean: 0.83 | Lower is Better
+
+Weaknesses:
+  Patient Survey
+
+  Key Measures:
+    - Doctor communication: 2.00 Stars
+      Cohort Mean: 2.97 | Higher is Better
+    - Recommend hospital: 2.00 Stars
+      Cohort Mean: 3.41 | Higher is Better",,"Rewrite the hospital information for a patient with no healthcare background. Use plain everyday language, short sentences, and explain unfamiliar terms simply. Preserve all numbers, comparisons, and performance meaning. Use contextual measures only as supporting information, not as indicators of performance. Use only the evidence provided.
+
+Performance Evidence:
+Facility: BAPTIST MEDICAL CENTER
+
+Strengths:
+  Healthcare-Associated Infections
+  Overall: Better than the National Benchmark
+  Relative Performance: 0.57 SD from cohort
+
+  Key Measures:
+    - Clostridium Difficile: 0.15 Ratio (Observed/Predicted Cases)
+      Cohort Mean: 0.34 | Lower is Better
+    - SSI (Colon Surgery): 0.33 Ratio (Observed/Predicted Cases)
+      Cohort Mean: 0.83 | Lower is Better
+
+Weaknesses:
+  Patient Survey
+
+  Key Measures:
+    - Doctor communication: 2.00 Stars
+      Cohort Mean: 2.97 | Higher is Better
+    - Recommend hospital: 2.00 Stars
+      Cohort Mean: 3.41 | Higher is Better
+
+Narrative:",Testing,"Facility: BAPTIST MEDICAL CENTER
+
+Strengths:
+  Healthcare-Associated Infections
+  Overall: Better than the National Benchmark
+  Relative Performance: 0.57 SD from cohort
+
+  Key Measures:
+    - Clostridium Difficile: 0.15 Ratio (Observed/Predicted Cases)
+      Cohort Mean: 0.34 | Lower is Better
+    - SSI (Colon Surgery): 0.33 Ratio (Observed/Predicted Cases)
+      Cohort Mean: 0.83 | Lower is Better
+
+Weaknesses:
+  Patient Survey
+
+  Key Measures:
+    - Doctor communication: 2.00 Stars
+      Cohort Mean: 2.97 | Higher is Better
+    - Recommend hospital: 2.00 Stars
+      Cohort Mean: 3.41 | Higher is Better","The BAPTIST MEDICAL CENTER is a hospital that has better than the national benchmark for Healthcare-Associated Infections. The hospital has fewer patients with Clostridium Difficile, SSI, and Colon Surgery.",30.870000000000033,0.0,0.0,1.0,29,0.3670886075949367
+450058,BAPTIST MEDICAL CENTER,Executive Summary,1,"Facility: BAPTIST MEDICAL CENTER
+
+Strengths:
+  Healthcare-Associated Infections
+  Overall: Better than the National Benchmark
+  Relative Performance: 0.57 SD from cohort
+
+  Key Measures:
+    - Clostridium Difficile: 0.15 Ratio (Observed/Predicted Cases)
+      Cohort Mean: 0.34 | Lower is Better
+    - SSI (Colon Surgery): 0.33 Ratio (Observed/Predicted Cases)
+      Cohort Mean: 0.83 | Lower is Better
+
+Weaknesses:
+  Patient Survey
+
+  Key Measures:
+    - Doctor communication: 2.00 Stars
+      Cohort Mean: 2.97 | Higher is Better
+    - Recommend hospital: 2.00 Stars
+      Cohort Mean: 3.41 | Higher is Better",,"Rewrite the hospital information as a concise executive briefing for hospital leadership. Prioritize the strongest domain, major risks, and the most important benchmark comparisons. Preserve all quantitative evidence. Use contextual measures only as supporting information, not as indicators of performance. Use only the evidence provided.
+
+Performance Evidence:
+Facility: BAPTIST MEDICAL CENTER
+
+Strengths:
+  Healthcare-Associated Infections
+  Overall: Better than the National Benchmark
+  Relative Performance: 0.57 SD from cohort
+
+  Key Measures:
+    - Clostridium Difficile: 0.15 Ratio (Observed/Predicted Cases)
+      Cohort Mean: 0.34 | Lower is Better
+    - SSI (Colon Surgery): 0.33 Ratio (Observed/Predicted Cases)
+      Cohort Mean: 0.83 | Lower is Better
+
+Weaknesses:
+  Patient Survey
+
+  Key Measures:
+    - Doctor communication: 2.00 Stars
+      Cohort Mean: 2.97 | Higher is Better
+    - Recommend hospital: 2.00 Stars
+      Cohort Mean: 3.41 | Higher is Better
+
+Narrative:",Testing,"Facility: BAPTIST MEDICAL CENTER
+
+Strengths:
+  Healthcare-Associated Infections
+  Overall: Better than the National Benchmark
+  Relative Performance: 0.57 SD from cohort
+
+  Key Measures:
+    - Clostridium Difficile: 0.15 Ratio (Observed/Predicted Cases)
+      Cohort Mean: 0.34 | Lower is Better
+    - SSI (Colon Surgery): 0.33 Ratio (Observed/Predicted Cases)
+      Cohort Mean: 0.83 | Lower is Better
+
+Weaknesses:
+  Patient Survey
+
+  Key Measures:
+    - Doctor communication: 2.00 Stars
+      Cohort Mean: 2.97 | Higher is Better
+    - Recommend hospital: 2.00 Stars
+      Cohort Mean: 3.41 | Higher is Better",The hospital's strengths are healthcare-associated infections. Its weaknesses are doctor communication and patient survey. The facility' s performance is better than the national benchmark. This is a good example of how to present the information.,41.96516891891895,0.0,0.0,1.0,35,0.4430379746835443
+450058,BAPTIST MEDICAL CENTER,Clinical,1,"Facility: BAPTIST MEDICAL CENTER
+
+Strengths:
+  Healthcare-Associated Infections
+  Overall: Better than the National Benchmark
+  Relative Performance: 0.52 SD from cohort
+
+  Key Measures:
+    - CLABSI (ICU + select Wards): 0.24 Ratio (Observed/Predicted Cases)
+      Cohort Mean: 0.55 | Lower is Better
+    - CAUTI (ICU + select Wards): 0.31 Ratio (Observed/Predicted Cases)
+      Cohort Mean: 0.50 | Lower is Better
+
+Weaknesses:
+  Patient Survey
+
+  Key Measures:
+    - Doctor communication: 2.00 Stars
+      Cohort Mean: 2.97 | Higher is Better
+    - Recommend hospital: 2.00 Stars
+      Cohort Mean: 3.41 | Higher is Better","Context:
+  Healthcare-Associated Infections
+    - CLABSI (ICU + select Wards): 23110.0 Device Days
+    - CLABSI (ICU + select Wards): 5.0 Cases","Rewrite the hospital information for healthcare professionals. Use appropriate clinical terminology, retain measure-specific detail, and report quantitative comparisons precisely. Do not infer causation or statistical significance. Use contextual measures only as supporting information, not as indicators of performance. Use only the evidence provided.
+
+Performance Evidence:
+Facility: BAPTIST MEDICAL CENTER
+
+Strengths:
+  Healthcare-Associated Infections
+  Overall: Better than the National Benchmark
+  Relative Performance: 0.52 SD from cohort
+
+  Key Measures:
+    - CLABSI (ICU + select Wards): 0.24 Ratio (Observed/Predicted Cases)
+      Cohort Mean: 0.55 | Lower is Better
+    - CAUTI (ICU + select Wards): 0.31 Ratio (Observed/Predicted Cases)
+      Cohort Mean: 0.50 | Lower is Better
+
+Weaknesses:
+  Patient Survey
+
+  Key Measures:
+    - Doctor communication: 2.00 Stars
+      Cohort Mean: 2.97 | Higher is Better
+    - Recommend hospital: 2.00 Stars
+      Cohort Mean: 3.41 | Higher is Better
+
+Supporting Context:
+Context:
+  Healthcare-Associated Infections
+    - CLABSI (ICU + select Wards): 23110.0 Device Days
+    - CLABSI (ICU + select Wards): 5.0 Cases
+
+Narrative:",Testing,"Facility: BAPTIST MEDICAL CENTER
+
+Strengths:
+  Healthcare-Associated Infections
+  Overall: Better than the National Benchmark
+  Relative Performance: 0.52 SD from cohort
+
+  Key Measures:
+    - CLABSI (ICU + select Wards): 0.24 Ratio (Observed/Predicted Cases)
+      Cohort Mean: 0.55 | Lower is Better
+    - CAUTI (ICU + select Wards): 0.31 Ratio (Observed/Predicted Cases)
+      Cohort Mean: 0.50 | Lower is Better
+
+Weaknesses:
+  Patient Survey
+
+  Key Measures:
+    - Doctor communication: 2.00 Stars
+      Cohort Mean: 2.97 | Higher is Better
+    - Recommend hospital: 2.00 Stars
+      Cohort Mean: 3.41 | Higher is Better
+Context:
+  Healthcare-Associated Infections
+    - CLABSI (ICU + select Wards): 23110.0 Device Days
+    - CLABSI (ICU + select Wards): 5.0 Cases","Healthcare-Associated Infections - CLABSI (ICU + select Wards): 23110.0 Device Days – Clabsi (iCU+ select wards), 5.0 Cases",30.53000000000003,0.18181818181818182,1.0,0.0,18,0.17307692307692307
+450058,BAPTIST MEDICAL CENTER,Community Report,1,"Facility: BAPTIST MEDICAL CENTER
+
+Strengths:
+  Healthcare-Associated Infections
+  Overall: Better than the National Benchmark
+  Relative Performance: 0.57 SD from cohort
+
+  Key Measures:
+    - Clostridium Difficile: 0.15 Ratio (Observed/Predicted Cases)
+      Cohort Mean: 0.34 | Lower is Better
+    - SSI (Colon Surgery): 0.33 Ratio (Observed/Predicted Cases)
+      Cohort Mean: 0.83 | Lower is Better
+
+Weaknesses:
+  Patient Survey
+
+  Key Measures:
+    - Doctor communication: 2.00 Stars
+      Cohort Mean: 2.97 | Higher is Better
+    - Recommend hospital: 2.00 Stars
+      Cohort Mean: 3.41 | Higher is Better",,"Rewrite the hospital information for a public community report. Use accessible, neutral language and explain the main strengths and weaknesses without technical detail. Preserve all important numerical facts. Use contextual measures only as supporting information, not as indicators of performance. Use only the evidence provided.
+
+Performance Evidence:
+Facility: BAPTIST MEDICAL CENTER
+
+Strengths:
+  Healthcare-Associated Infections
+  Overall: Better than the National Benchmark
+  Relative Performance: 0.57 SD from cohort
+
+  Key Measures:
+    - Clostridium Difficile: 0.15 Ratio (Observed/Predicted Cases)
+      Cohort Mean: 0.34 | Lower is Better
+    - SSI (Colon Surgery): 0.33 Ratio (Observed/Predicted Cases)
+      Cohort Mean: 0.83 | Lower is Better
+
+Weaknesses:
+  Patient Survey
+
+  Key Measures:
+    - Doctor communication: 2.00 Stars
+      Cohort Mean: 2.97 | Higher is Better
+    - Recommend hospital: 2.00 Stars
+      Cohort Mean: 3.41 | Higher is Better
+
+Narrative:",Testing,"Facility: BAPTIST MEDICAL CENTER
+
+Strengths:
+  Healthcare-Associated Infections
+  Overall: Better than the National Benchmark
+  Relative Performance: 0.57 SD from cohort
+
+  Key Measures:
+    - Clostridium Difficile: 0.15 Ratio (Observed/Predicted Cases)
+      Cohort Mean: 0.34 | Lower is Better
+    - SSI (Colon Surgery): 0.33 Ratio (Observed/Predicted Cases)
+      Cohort Mean: 0.83 | Lower is Better
+
+Weaknesses:
+  Patient Survey
+
+  Key Measures:
+    - Doctor communication: 2.00 Stars
+      Cohort Mean: 2.97 | Higher is Better
+    - Recommend hospital: 2.00 Stars
+      Cohort Mean: 3.41 | Higher is Better","The BAPTIST MEDICAL CENTER has a better relative performance than the National Benchmark in Healthcare-Associated Infections. The patient survey scores are higher than average, but the doctor communication is poor.",27.360564516129045,0.0,0.0,1.0,30,0.379746835443038
+50517,VICTOR VALLEY GLOBAL MEDICAL CENTER,Patient Friendly,1,"Facility: VICTOR VALLEY GLOBAL MEDICAL CENTER
+
+Strengths:
+  Healthcare-Associated Infections
+  Overall: No Different than National Benchmark
+  Relative Performance: -0.33 SD from cohort
+
+  Key Measures:
+    - CLABSI (ICU + select Wards): 0.00 Ratio (Observed/Predicted Cases)
+      Cohort Mean: 0.55 | Lower is Better
+    - CAUTI (ICU + select Wards): 0.39 Ratio (Observed/Predicted Cases)
+      Cohort Mean: 0.50 | Lower is Better
+
+Weaknesses:
+  Patient Survey
+
+  Key Measures:
+    - Doctor communication: 1.00 Stars
+      Cohort Mean: 2.97 | Higher is Better
+    - Discharge information: 1.00 Stars
+      Cohort Mean: 3.10 | Higher is Better",,"Rewrite the hospital information for a patient with no healthcare background. Use plain everyday language, short sentences, and explain unfamiliar terms simply. Preserve all numbers, comparisons, and performance meaning. Use contextual measures only as supporting information, not as indicators of performance. Use only the evidence provided.
+
+Performance Evidence:
+Facility: VICTOR VALLEY GLOBAL MEDICAL CENTER
+
+Strengths:
+  Healthcare-Associated Infections
+  Overall: No Different than National Benchmark
+  Relative Performance: -0.33 SD from cohort
+
+  Key Measures:
+    - CLABSI (ICU + select Wards): 0.00 Ratio (Observed/Predicted Cases)
+      Cohort Mean: 0.55 | Lower is Better
+    - CAUTI (ICU + select Wards): 0.39 Ratio (Observed/Predicted Cases)
+      Cohort Mean: 0.50 | Lower is Better
+
+Weaknesses:
+  Patient Survey
+
+  Key Measures:
+    - Doctor communication: 1.00 Stars
+      Cohort Mean: 2.97 | Higher is Better
+    - Discharge information: 1.00 Stars
+      Cohort Mean: 3.10 | Higher is Better
+
+Narrative:",Testing,"Facility: VICTOR VALLEY GLOBAL MEDICAL CENTER
+
+Strengths:
+  Healthcare-Associated Infections
+  Overall: No Different than National Benchmark
+  Relative Performance: -0.33 SD from cohort
+
+  Key Measures:
+    - CLABSI (ICU + select Wards): 0.00 Ratio (Observed/Predicted Cases)
+      Cohort Mean: 0.55 | Lower is Better
+    - CAUTI (ICU + select Wards): 0.39 Ratio (Observed/Predicted Cases)
+      Cohort Mean: 0.50 | Lower is Better
+
+Weaknesses:
+  Patient Survey
+
+  Key Measures:
+    - Doctor communication: 1.00 Stars
+      Cohort Mean: 2.97 | Higher is Better
+    - Discharge information: 1.00 Stars
+      Cohort Mean: 3.10 | Higher is Better",The VICTOR VALLEY GLOBAL MEDICAL CENTER is a hospital that provides healthcare-associated infections. The hospital has no different than the national benchmark in terms of overall performance.,26.446428571428584,0.0,0.0,0.0,27,0.313953488372093
+50517,VICTOR VALLEY GLOBAL MEDICAL CENTER,Executive Summary,1,"Facility: VICTOR VALLEY GLOBAL MEDICAL CENTER
+
+Strengths:
+  Healthcare-Associated Infections
+  Overall: No Different than National Benchmark
+  Relative Performance: -0.33 SD from cohort
+
+  Key Measures:
+    - CLABSI (ICU + select Wards): 0.00 Ratio (Observed/Predicted Cases)
+      Cohort Mean: 0.55 | Lower is Better
+    - CAUTI (ICU + select Wards): 0.39 Ratio (Observed/Predicted Cases)
+      Cohort Mean: 0.50 | Lower is Better
+
+Weaknesses:
+  Patient Survey
+
+  Key Measures:
+    - Doctor communication: 1.00 Stars
+      Cohort Mean: 2.97 | Higher is Better
+    - Discharge information: 1.00 Stars
+      Cohort Mean: 3.10 | Higher is Better",,"Rewrite the hospital information as a concise executive briefing for hospital leadership. Prioritize the strongest domain, major risks, and the most important benchmark comparisons. Preserve all quantitative evidence. Use contextual measures only as supporting information, not as indicators of performance. Use only the evidence provided.
+
+Performance Evidence:
+Facility: VICTOR VALLEY GLOBAL MEDICAL CENTER
+
+Strengths:
+  Healthcare-Associated Infections
+  Overall: No Different than National Benchmark
+  Relative Performance: -0.33 SD from cohort
+
+  Key Measures:
+    - CLABSI (ICU + select Wards): 0.00 Ratio (Observed/Predicted Cases)
+      Cohort Mean: 0.55 | Lower is Better
+    - CAUTI (ICU + select Wards): 0.39 Ratio (Observed/Predicted Cases)
+      Cohort Mean: 0.50 | Lower is Better
+
+Weaknesses:
+  Patient Survey
+
+  Key Measures:
+    - Doctor communication: 1.00 Stars
+      Cohort Mean: 2.97 | Higher is Better
+    - Discharge information: 1.00 Stars
+      Cohort Mean: 3.10 | Higher is Better
+
+Narrative:",Testing,"Facility: VICTOR VALLEY GLOBAL MEDICAL CENTER
+
+Strengths:
+  Healthcare-Associated Infections
+  Overall: No Different than National Benchmark
+  Relative Performance: -0.33 SD from cohort
+
+  Key Measures:
+    - CLABSI (ICU + select Wards): 0.00 Ratio (Observed/Predicted Cases)
+      Cohort Mean: 0.55 | Lower is Better
+    - CAUTI (ICU + select Wards): 0.39 Ratio (Observed/Predicted Cases)
+      Cohort Mean: 0.50 | Lower is Better
+
+Weaknesses:
+  Patient Survey
+
+  Key Measures:
+    - Doctor communication: 1.00 Stars
+      Cohort Mean: 2.97 | Higher is Better
+    - Discharge information: 1.00 Stars
+      Cohort Mean: 3.10 | Higher is Better","The facility at Victor Valley Global Medical Center has a strong focus on Healthcare-Associated Infections. However, the hospital has weaknesses in patient satisfaction. The hospital's doctor communication and discharge information are weak.",18.666960784313744,0.0,0.0,0.0,32,0.37209302325581395
+50517,VICTOR VALLEY GLOBAL MEDICAL CENTER,Clinical,1,"Facility: VICTOR VALLEY GLOBAL MEDICAL CENTER
+
+Strengths:
+  Healthcare-Associated Infections
+  Overall: No Different than National Benchmark
+  Relative Performance: 0.66 SD from cohort
+
+  Key Measures:
+    - CLABSI (ICU + select Wards): 0.00 Ratio (Observed/Predicted Cases)
+      Cohort Mean: 0.55 | Lower is Better
+    - CAUTI (ICU + select Wards): 0.39 Ratio (Observed/Predicted Cases)
+      Cohort Mean: 0.50 | Lower is Better
+
+Weaknesses:
+  Patient Survey
+
+  Key Measures:
+    - Doctor communication: 1.00 Stars
+      Cohort Mean: 2.97 | Higher is Better
+    - Discharge information: 1.00 Stars
+      Cohort Mean: 3.10 | Higher is Better","Context:
+  Healthcare-Associated Infections
+    - CLABSI (ICU + select Wards): 2692.0 Device Days
+    - CLABSI (ICU + select Wards): 0.0 Cases","Rewrite the hospital information for healthcare professionals. Use appropriate clinical terminology, retain measure-specific detail, and report quantitative comparisons precisely. Do not infer causation or statistical significance. Use contextual measures only as supporting information, not as indicators of performance. Use only the evidence provided.
+
+Performance Evidence:
+Facility: VICTOR VALLEY GLOBAL MEDICAL CENTER
+
+Strengths:
+  Healthcare-Associated Infections
+  Overall: No Different than National Benchmark
+  Relative Performance: 0.66 SD from cohort
+
+  Key Measures:
+    - CLABSI (ICU + select Wards): 0.00 Ratio (Observed/Predicted Cases)
+      Cohort Mean: 0.55 | Lower is Better
+    - CAUTI (ICU + select Wards): 0.39 Ratio (Observed/Predicted Cases)
+      Cohort Mean: 0.50 | Lower is Better
+
+Weaknesses:
+  Patient Survey
+
+  Key Measures:
+    - Doctor communication: 1.00 Stars
+      Cohort Mean: 2.97 | Higher is Better
+    - Discharge information: 1.00 Stars
+      Cohort Mean: 3.10 | Higher is Better
+
+Supporting Context:
+Context:
+  Healthcare-Associated Infections
+    - CLABSI (ICU + select Wards): 2692.0 Device Days
+    - CLABSI (ICU + select Wards): 0.0 Cases
+
+Narrative:",Testing,"Facility: VICTOR VALLEY GLOBAL MEDICAL CENTER
+
+Strengths:
+  Healthcare-Associated Infections
+  Overall: No Different than National Benchmark
+  Relative Performance: 0.66 SD from cohort
+
+  Key Measures:
+    - CLABSI (ICU + select Wards): 0.00 Ratio (Observed/Predicted Cases)
+      Cohort Mean: 0.55 | Lower is Better
+    - CAUTI (ICU + select Wards): 0.39 Ratio (Observed/Predicted Cases)
+      Cohort Mean: 0.50 | Lower is Better
+
+Weaknesses:
+  Patient Survey
+
+  Key Measures:
+    - Doctor communication: 1.00 Stars
+      Cohort Mean: 2.97 | Higher is Better
+    - Discharge information: 1.00 Stars
+      Cohort Mean: 3.10 | Higher is Better
+Context:
+  Healthcare-Associated Infections
+    - CLABSI (ICU + select Wards): 2692.0 Device Days
+    - CLABSI (ICU + select Wards): 0.0 Cases",Healthcare-Associated Infections - CLABSI (ICU + select wards): 2692.0 Device Days; 0.0 Cases; Clabsi ( ICU+ select Wards).,32.89833333333334,0.18181818181818182,1.0,0.0,18,0.16981132075471697
+50517,VICTOR VALLEY GLOBAL MEDICAL CENTER,Community Report,1,"Facility: VICTOR VALLEY GLOBAL MEDICAL CENTER
+
+Strengths:
+  Healthcare-Associated Infections
+  Overall: No Different than National Benchmark
+  Relative Performance: -0.33 SD from cohort
+
+  Key Measures:
+    - CLABSI (ICU + select Wards): 0.00 Ratio (Observed/Predicted Cases)
+      Cohort Mean: 0.55 | Lower is Better
+    - CAUTI (ICU + select Wards): 0.39 Ratio (Observed/Predicted Cases)
+      Cohort Mean: 0.50 | Lower is Better
+
+Weaknesses:
+  Patient Survey
+
+  Key Measures:
+    - Doctor communication: 1.00 Stars
+      Cohort Mean: 2.97 | Higher is Better
+    - Discharge information: 1.00 Stars
+      Cohort Mean: 3.10 | Higher is Better",,"Rewrite the hospital information for a public community report. Use accessible, neutral language and explain the main strengths and weaknesses without technical detail. Preserve all important numerical facts. Use contextual measures only as supporting information, not as indicators of performance. Use only the evidence provided.
+
+Performance Evidence:
+Facility: VICTOR VALLEY GLOBAL MEDICAL CENTER
+
+Strengths:
+  Healthcare-Associated Infections
+  Overall: No Different than National Benchmark
+  Relative Performance: -0.33 SD from cohort
+
+  Key Measures:
+    - CLABSI (ICU + select Wards): 0.00 Ratio (Observed/Predicted Cases)
+      Cohort Mean: 0.55 | Lower is Better
+    - CAUTI (ICU + select Wards): 0.39 Ratio (Observed/Predicted Cases)
+      Cohort Mean: 0.50 | Lower is Better
+
+Weaknesses:
+  Patient Survey
+
+  Key Measures:
+    - Doctor communication: 1.00 Stars
+      Cohort Mean: 2.97 | Higher is Better
+    - Discharge information: 1.00 Stars
+      Cohort Mean: 3.10 | Higher is Better
+
+Narrative:",Testing,"Facility: VICTOR VALLEY GLOBAL MEDICAL CENTER
+
+Strengths:
+  Healthcare-Associated Infections
+  Overall: No Different than National Benchmark
+  Relative Performance: -0.33 SD from cohort
+
+  Key Measures:
+    - CLABSI (ICU + select Wards): 0.00 Ratio (Observed/Predicted Cases)
+      Cohort Mean: 0.55 | Lower is Better
+    - CAUTI (ICU + select Wards): 0.39 Ratio (Observed/Predicted Cases)
+      Cohort Mean: 0.50 | Lower is Better
+
+Weaknesses:
+  Patient Survey
+
+  Key Measures:
+    - Doctor communication: 1.00 Stars
+      Cohort Mean: 2.97 | Higher is Better
+    - Discharge information: 1.00 Stars
+      Cohort Mean: 3.10 | Higher is Better","The VICTOR VALLEY GLOBAL MEDICAL CENTER has a high rate of Healthcare-Associated Infections, but it is not as good as the national benchmark.",45.00000000000003,0.0,0.0,0.0,23,0.26744186046511625
+80004,"BAYHEALTH MEDICAL CENTER, KENT CAMPUS",Patient Friendly,1,"Facility: BAYHEALTH MEDICAL CENTER, KENT CAMPUS
+
+Strengths:
+  Healthcare-Associated Infections
+  Overall: No Different than National Benchmark
+  Relative Performance: 0.21 SD from cohort
+
+  Key Measures:
+    - MRSA Bacteremia: 0.20 Ratio (Observed/Predicted Cases)
+      Cohort Mean: 0.69 | Lower is Better
+    - Clostridium Difficile: 0.25 Ratio (Observed/Predicted Cases)
+      Cohort Mean: 0.34 | Lower is Better
+
+Weaknesses:
+  Timely and Effective Care
+
+  Key Measures:
+    - Severe Sepsis 3-Hour Bundle: 61.00 Percent
+      Cohort Mean: 79.54 | Higher is Better
+    - Severe Sepsis and Septic Shock Care: 35.00 Percent
+      Cohort Mean: 62.75 | Higher is Better",,"Rewrite the hospital information for a patient with no healthcare background. Use plain everyday language, short sentences, and explain unfamiliar terms simply. Preserve all numbers, comparisons, and performance meaning. Use contextual measures only as supporting information, not as indicators of performance. Use only the evidence provided.
+
+Performance Evidence:
+Facility: BAYHEALTH MEDICAL CENTER, KENT CAMPUS
+
+Strengths:
+  Healthcare-Associated Infections
+  Overall: No Different than National Benchmark
+  Relative Performance: 0.21 SD from cohort
+
+  Key Measures:
+    - MRSA Bacteremia: 0.20 Ratio (Observed/Predicted Cases)
+      Cohort Mean: 0.69 | Lower is Better
+    - Clostridium Difficile: 0.25 Ratio (Observed/Predicted Cases)
+      Cohort Mean: 0.34 | Lower is Better
+
+Weaknesses:
+  Timely and Effective Care
+
+  Key Measures:
+    - Severe Sepsis 3-Hour Bundle: 61.00 Percent
+      Cohort Mean: 79.54 | Higher is Better
+    - Severe Sepsis and Septic Shock Care: 35.00 Percent
+      Cohort Mean: 62.75 | Higher is Better
+
+Narrative:",Testing,"Facility: BAYHEALTH MEDICAL CENTER, KENT CAMPUS
+
+Strengths:
+  Healthcare-Associated Infections
+  Overall: No Different than National Benchmark
+  Relative Performance: 0.21 SD from cohort
+
+  Key Measures:
+    - MRSA Bacteremia: 0.20 Ratio (Observed/Predicted Cases)
+      Cohort Mean: 0.69 | Lower is Better
+    - Clostridium Difficile: 0.25 Ratio (Observed/Predicted Cases)
+      Cohort Mean: 0.34 | Lower is Better
+
+Weaknesses:
+  Timely and Effective Care
+
+  Key Measures:
+    - Severe Sepsis 3-Hour Bundle: 61.00 Percent
+      Cohort Mean: 79.54 | Higher is Better
+    - Severe Sepsis and Septic Shock Care: 35.00 Percent
+      Cohort Mean: 62.75 | Higher is Better","BAYHEALTH MEDICAL CENTER, KENT CAMPUS is a hospital that provides healthcare-associated infections. The hospital has an overall performance that is no different than the national benchmark.",27.06583333333336,0.0,0.0,0.0,26,0.29545454545454547
+80004,"BAYHEALTH MEDICAL CENTER, KENT CAMPUS",Executive Summary,1,"Facility: BAYHEALTH MEDICAL CENTER, KENT CAMPUS
+
+Strengths:
+  Healthcare-Associated Infections
+  Overall: No Different than National Benchmark
+  Relative Performance: 0.21 SD from cohort
+
+  Key Measures:
+    - MRSA Bacteremia: 0.20 Ratio (Observed/Predicted Cases)
+      Cohort Mean: 0.69 | Lower is Better
+    - Clostridium Difficile: 0.25 Ratio (Observed/Predicted Cases)
+      Cohort Mean: 0.34 | Lower is Better
+
+Weaknesses:
+  Timely and Effective Care
+
+  Key Measures:
+    - Severe Sepsis 3-Hour Bundle: 61.00 Percent
+      Cohort Mean: 79.54 | Higher is Better
+    - Severe Sepsis and Septic Shock Care: 35.00 Percent
+      Cohort Mean: 62.75 | Higher is Better",,"Rewrite the hospital information as a concise executive briefing for hospital leadership. Prioritize the strongest domain, major risks, and the most important benchmark comparisons. Preserve all quantitative evidence. Use contextual measures only as supporting information, not as indicators of performance. Use only the evidence provided.
+
+Performance Evidence:
+Facility: BAYHEALTH MEDICAL CENTER, KENT CAMPUS
+
+Strengths:
+  Healthcare-Associated Infections
+  Overall: No Different than National Benchmark
+  Relative Performance: 0.21 SD from cohort
+
+  Key Measures:
+    - MRSA Bacteremia: 0.20 Ratio (Observed/Predicted Cases)
+      Cohort Mean: 0.69 | Lower is Better
+    - Clostridium Difficile: 0.25 Ratio (Observed/Predicted Cases)
+      Cohort Mean: 0.34 | Lower is Better
+
+Weaknesses:
+  Timely and Effective Care
+
+  Key Measures:
+    - Severe Sepsis 3-Hour Bundle: 61.00 Percent
+      Cohort Mean: 79.54 | Higher is Better
+    - Severe Sepsis and Septic Shock Care: 35.00 Percent
+      Cohort Mean: 62.75 | Higher is Better
+
+Narrative:",Testing,"Facility: BAYHEALTH MEDICAL CENTER, KENT CAMPUS
+
+Strengths:
+  Healthcare-Associated Infections
+  Overall: No Different than National Benchmark
+  Relative Performance: 0.21 SD from cohort
+
+  Key Measures:
+    - MRSA Bacteremia: 0.20 Ratio (Observed/Predicted Cases)
+      Cohort Mean: 0.69 | Lower is Better
+    - Clostridium Difficile: 0.25 Ratio (Observed/Predicted Cases)
+      Cohort Mean: 0.34 | Lower is Better
+
+Weaknesses:
+  Timely and Effective Care
+
+  Key Measures:
+    - Severe Sepsis 3-Hour Bundle: 61.00 Percent
+      Cohort Mean: 79.54 | Higher is Better
+    - Severe Sepsis and Septic Shock Care: 35.00 Percent
+      Cohort Mean: 62.75 | Higher is Better","BAYHEALTH MEDICAL CENTER, KENT CAMPUS is a hospital in Kent, Maryland. The hospital has been rated as 'Strengths' by the Centers for Medicare and Medicaid Services (CMS). The facility has an overall score of 0.21 SD from the national benchmark for healthcare-associated infections.",46.398168604651175,0.1,1.0,0.0,43,0.48863636363636365
+80004,"BAYHEALTH MEDICAL CENTER, KENT CAMPUS",Clinical,1,"Facility: BAYHEALTH MEDICAL CENTER, KENT CAMPUS
+
+Strengths:
+  Healthcare-Associated Infections
+  Overall: No Different than National Benchmark
+  Relative Performance: -0.27 SD from cohort
+
+  Key Measures:
+    - CLABSI (ICU + select Wards): 0.63 Ratio (Observed/Predicted Cases)
+      Cohort Mean: 0.55 | Lower is Better
+    - CAUTI (ICU + select Wards): 0.68 Ratio (Observed/Predicted Cases)
+      Cohort Mean: 0.50 | Lower is Better
+
+Weaknesses:
+  Timely and Effective Care
+
+  Key Measures:
+    - Severe Sepsis 3-Hour Bundle: 61.00 Percent
+      Cohort Mean: 79.54 | Higher is Better
+    - Severe Sepsis and Septic Shock Care: 35.00 Percent
+      Cohort Mean: 62.75 | Higher is Better","Context:
+  Healthcare-Associated Infections
+    - CLABSI (ICU + select Wards): 5932.0 Device Days
+    - CLABSI (ICU + select Wards): 4.0 Cases","Rewrite the hospital information for healthcare professionals. Use appropriate clinical terminology, retain measure-specific detail, and report quantitative comparisons precisely. Do not infer causation or statistical significance. Use contextual measures only as supporting information, not as indicators of performance. Use only the evidence provided.
+
+Performance Evidence:
+Facility: BAYHEALTH MEDICAL CENTER, KENT CAMPUS
+
+Strengths:
+  Healthcare-Associated Infections
+  Overall: No Different than National Benchmark
+  Relative Performance: -0.27 SD from cohort
+
+  Key Measures:
+    - CLABSI (ICU + select Wards): 0.63 Ratio (Observed/Predicted Cases)
+      Cohort Mean: 0.55 | Lower is Better
+    - CAUTI (ICU + select Wards): 0.68 Ratio (Observed/Predicted Cases)
+      Cohort Mean: 0.50 | Lower is Better
+
+Weaknesses:
+  Timely and Effective Care
+
+  Key Measures:
+    - Severe Sepsis 3-Hour Bundle: 61.00 Percent
+      Cohort Mean: 79.54 | Higher is Better
+    - Severe Sepsis and Septic Shock Care: 35.00 Percent
+      Cohort Mean: 62.75 | Higher is Better
+
+Supporting Context:
+Context:
+  Healthcare-Associated Infections
+    - CLABSI (ICU + select Wards): 5932.0 Device Days
+    - CLABSI (ICU + select Wards): 4.0 Cases
+
+Narrative:",Testing,"Facility: BAYHEALTH MEDICAL CENTER, KENT CAMPUS
+
+Strengths:
+  Healthcare-Associated Infections
+  Overall: No Different than National Benchmark
+  Relative Performance: -0.27 SD from cohort
+
+  Key Measures:
+    - CLABSI (ICU + select Wards): 0.63 Ratio (Observed/Predicted Cases)
+      Cohort Mean: 0.55 | Lower is Better
+    - CAUTI (ICU + select Wards): 0.68 Ratio (Observed/Predicted Cases)
+      Cohort Mean: 0.50 | Lower is Better
+
+Weaknesses:
+  Timely and Effective Care
+
+  Key Measures:
+    - Severe Sepsis 3-Hour Bundle: 61.00 Percent
+      Cohort Mean: 79.54 | Higher is Better
+    - Severe Sepsis and Septic Shock Care: 35.00 Percent
+      Cohort Mean: 62.75 | Higher is Better
+Context:
+  Healthcare-Associated Infections
+    - CLABSI (ICU + select Wards): 5932.0 Device Days
+    - CLABSI (ICU + select Wards): 4.0 Cases",Healthcare-Associated Infections - CLABSI (ICU + select wards): 5932.0 Device Days. 4.0 Cases were reported in the ICU and select Wards.,47.16750000000002,0.16666666666666666,1.0,0.0,21,0.18421052631578946
+80004,"BAYHEALTH MEDICAL CENTER, KENT CAMPUS",Community Report,1,"Facility: BAYHEALTH MEDICAL CENTER, KENT CAMPUS
+
+Strengths:
+  Healthcare-Associated Infections
+  Overall: No Different than National Benchmark
+  Relative Performance: 0.21 SD from cohort
+
+  Key Measures:
+    - MRSA Bacteremia: 0.20 Ratio (Observed/Predicted Cases)
+      Cohort Mean: 0.69 | Lower is Better
+    - Clostridium Difficile: 0.25 Ratio (Observed/Predicted Cases)
+      Cohort Mean: 0.34 | Lower is Better
+
+Weaknesses:
+  Timely and Effective Care
+
+  Key Measures:
+    - Severe Sepsis 3-Hour Bundle: 61.00 Percent
+      Cohort Mean: 79.54 | Higher is Better
+    - Severe Sepsis and Septic Shock Care: 35.00 Percent
+      Cohort Mean: 62.75 | Higher is Better",,"Rewrite the hospital information for a public community report. Use accessible, neutral language and explain the main strengths and weaknesses without technical detail. Preserve all important numerical facts. Use contextual measures only as supporting information, not as indicators of performance. Use only the evidence provided.
+
+Performance Evidence:
+Facility: BAYHEALTH MEDICAL CENTER, KENT CAMPUS
+
+Strengths:
+  Healthcare-Associated Infections
+  Overall: No Different than National Benchmark
+  Relative Performance: 0.21 SD from cohort
+
+  Key Measures:
+    - MRSA Bacteremia: 0.20 Ratio (Observed/Predicted Cases)
+      Cohort Mean: 0.69 | Lower is Better
+    - Clostridium Difficile: 0.25 Ratio (Observed/Predicted Cases)
+      Cohort Mean: 0.34 | Lower is Better
+
+Weaknesses:
+  Timely and Effective Care
+
+  Key Measures:
+    - Severe Sepsis 3-Hour Bundle: 61.00 Percent
+      Cohort Mean: 79.54 | Higher is Better
+    - Severe Sepsis and Septic Shock Care: 35.00 Percent
+      Cohort Mean: 62.75 | Higher is Better
+
+Narrative:",Testing,"Facility: BAYHEALTH MEDICAL CENTER, KENT CAMPUS
+
+Strengths:
+  Healthcare-Associated Infections
+  Overall: No Different than National Benchmark
+  Relative Performance: 0.21 SD from cohort
+
+  Key Measures:
+    - MRSA Bacteremia: 0.20 Ratio (Observed/Predicted Cases)
+      Cohort Mean: 0.69 | Lower is Better
+    - Clostridium Difficile: 0.25 Ratio (Observed/Predicted Cases)
+      Cohort Mean: 0.34 | Lower is Better
+
+Weaknesses:
+  Timely and Effective Care
+
+  Key Measures:
+    - Severe Sepsis 3-Hour Bundle: 61.00 Percent
+      Cohort Mean: 79.54 | Higher is Better
+    - Severe Sepsis and Septic Shock Care: 35.00 Percent
+      Cohort Mean: 62.75 | Higher is Better","The BayHealth Medical Center, Kent Campus has a low relative performance compared to the national benchmark for healthcare-associated infections. The hospital provides timely and effective care for patients with severe sepsis and septic shock.",27.123928571428593,0.0,0.0,0.0,34,0.38636363636363635
