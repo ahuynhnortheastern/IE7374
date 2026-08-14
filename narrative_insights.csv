@@ -1,0 +1,14 @@
+stage,section,experiment,parameter,metric,value,status,decision,insight,notes
+,,,,,,,,"
+Evidence repository validation passed and is ready for narrative generation.
+Core statistical fields are complete, numeric, and consistently structured across
+facilities and measures. Missing values in Compared to National are acceptable
+because this field is only available for applicable CMS measures and serves as
+supplemental national context rather than the primary cohort comparison.
+",
+,,,,,,,,"
+Condition and Compared to National are dataset-specific fields. Condition applies
+to Timely and Effective Care, while Compared to National applies to HAI measures;
+therefore, missing values outside their respective domains are expected.
+",
+Narratives,Experimental Sampling,,Sample Size,,5,Selected,"Use 10 facilities in each of the training, development, and testing samples.","Computational limitations require a small experimental sample. Mutually exclusive facility pools are created before sampling so the same hospital cannot appear across training, development, and testing. Training supports prompt development, development supports prompt selection, and testing is reserved for final evaluation.",
