@@ -1,58 +1,90 @@
-#######################################################################
 # Plan of Action
 
-This system will utilize three publicly available CMS datasets which will be cleaned, combined, and analyzed to uncover meaningful trends and performance insights. Rather than relying on traditional Transformer-based sequence-to-sequence models, the project will leverage a pretrained Large Language Model (LLM), Llama 3 and GPT-4o, combined with Retrieval-Augmented Generation (RAG). This approach allows the model to retrieve relevant statistical findings before generating text fit for different audiences through prompt engineering. This will alleviate the need to have separate models and focus on the dependent variable being the prompts.
+This project will use three publicly available CMS hospital quality datasets to explore how Generative AI can transform structured healthcare performance data into clear, audience-specific narratives. The datasets will be cleaned, standardized, analyzed, and converted into structured factual evidence that can be provided to a Large Language Model (LLM).
 
-The project will begin by collecting, cleaning, and preprocessing the CMS datasets, followed by exploratory data analysis and statistical analysis to identify key trends, relationships, and performance metrics. Next, the Retrieval-Augmented Generation (RAG) pipeline will be developed by generating embeddings from the statistical insights, storing them within a vector database, retrieving the most relevant context, and combining that information with carefully designed prompts for the LLM. Different prompting strategies and communication styles will be evaluated using ROUGE, BLEU, and BERTScore, along with qualitative assessments (i.e. readability, factual consistency, fluency, and audience appropriateness). Finally, a simple user interface will be developed to allow users to upload CMS datasets and automatically generate customized summaries, demonstrating the power of Generative AI tools that can transform structured healthcare data into meaningful, actionable insights for a wide range of users. 
+Rather than training separate models for different audiences, the project will use **prompt engineering and audience-specific evidence selection** to control how the same underlying hospital performance information is communicated. The primary focus is evaluating whether different prompting strategies can change communication style while maintaining factual consistency.
 
-1.	Dataset Collection
-    a.	Select and download the following CMS hospital quality datasets:
-        •	Patient Survey (HCAHPS)
-        •	Healthcare-Associated Infections
-        •	Timely and Effective Care
-2.	Preprocess Dataset
-    a.	Cleaning the dataset using pandas and NumPy
-        i.	Address missing values, duplicate rows, formatting, and etc. via   imputation methods
-        ii.	Select relevant features
-        iii.	If necessary, standardize features
-    b.	Merge the datasets using the primary key “Facility ID”
-3.	Exploratory Data Analysis
-    a.	Uncover dataset insights like trends, outliers, correlations, and distributions
-4.	Statistical Analysis
-    a.	Generate key performance indicators and summary statistics
-    b.	Convert the findings into structured text that can be retrieved by a language model
-5.	Retrieval-Augmented Generation (RAG)
-    a.	Generate embedding for the findings using a sentence embedding model
-    b.	Store the embeddings within a vector database
-    c.	Only pull the most relevant information and insight based on the end-users’ prompt
-6.	Prompt Engineering
-    a.	Create prompt templates for the three audience types: executives, clinical providers, and non-technical users
-    b.	Define the communication style, tone, and level of technical understanding for each audience
-    c.	Package the retrieved statistical insights with the selected prompt template to feed into the Large Language Model
-7.	Large Language Model (LLM) Generation
-    a.	Use a pre-trained large language model (i.e. Llama 3 or GPT-4o)
-    b.	Generate audience-specific summaries using the pulled insights and prompt template
-    c.	Try zero-shot and few-shot prompting to evaluate effect on summary quality
-8.	Model Evaluation
-    a.	Assess performance of generated summaries using the following metrics:
-        i.	BLEU (Similarity)
-        ii.	ROUGE (Context Coverage)
-        iii.	BERTScore (Semantic Similarity)
-    b.	Perform a quality check for the following:
-        i.	Readability
-        ii.	Factual consistency
-        iii.	Audience appropriateness
-    c.	Compare the performance and quality of the different prompts and audiences
-9.	Deployment
-    a.	Develop a user interface for uploading CMS data
-    b.	Allow users to select their preferred communication style
-    c.	Generate custom AI summaries 
+The project workflow is:
 
-#######################################################################
+**Data Collection → Data Preprocessing → Exploratory Analysis → Factual Narrative Generation → Evidence Selection → Prompt Engineering → LLM Generation → Evaluation → Application**
+
+1. **Dataset Collection**
+
+   * Collect three publicly available CMS hospital quality datasets:
+
+     * Patient Survey (HCAHPS)
+     * Healthcare-Associated Infections
+     * Timely and Effective Care
+
+2. **Data Preprocessing**
+
+   * Clean and standardize the datasets using Python, pandas, and NumPy.
+   * Address missing values, duplicate records, inconsistent formatting, and data types.
+   * Select relevant hospital performance measures.
+   * Use **Facility ID** to associate performance measures with individual hospitals.
+
+3. **Exploratory Data Analysis**
+
+   * Examine distributions, trends, outliers, and hospital performance patterns.
+   * Identify measures that provide meaningful information for narrative generation.
+
+4. **Factual Narrative Generation**
+
+   * Convert structured CMS measures into standardized factual narratives.
+   * Preserve important values, comparisons, and performance information from the source data.
+   * Create an evidence repository that can be used as grounded context for subsequent text generation.
+
+5. **Audience-Specific Evidence Selection**
+
+   * Select evidence relevant to the requested hospital and communication style.
+   * Control which measures are provided to the LLM based on the information needs of each audience.
+   * Use the selected evidence as factual grounding for narrative generation.
+
+6. **Prompt Engineering**
+
+   * Develop prompts for four communication styles:
+
+     * Patient Friendly
+     * Executive Summary
+     * Clinical
+     * Community Report
+   * Define the appropriate tone, terminology, detail, and technical complexity for each style.
+   * Evaluate multiple prompt versions to determine how prompt design affects generated narratives.
+
+7. **Large Language Model Generation**
+
+   * Provide the factual evidence and communication instructions to an LLM.
+   * Generate audience-specific hospital performance narratives.
+   * Maintain the same underlying evidence while varying how the information is communicated.
+
+8. **Evaluation**
+
+   * Compare generated narratives against the factual source narratives using quantitative and qualitative measures.
+   * Evaluate characteristics including:
+
+     * Semantic similarity
+     * Content coverage
+     * Readability
+     * Factual consistency
+     * Audience appropriateness
+   * Compare results across communication styles and prompt versions to identify the most effective prompting strategies.
+
+9. **Application**
+
+   * Develop a simple user interface demonstrating the completed workflow.
+   * Allow users to select a hospital and communication style.
+   * Retrieve the appropriate evidence and generate a customized hospital performance narrative.
+
 # Updates from Milestone 1
 
-Between Milestone 1 and 2, the project will be evolving from a transformer-based text summarization to a Retrieval-Augmented Generation based model. The original proposal focused on leveraging Transformers such as BART or FLAN-T5, to generate summaries but moving forward the project will now adopt a RAG-centric architecture which will be supported by a more modern Large Language Model (i.e. Llama 3 or GPT-4o). The benefits of using a more modern LLM like Llama 3 or GPT-4o instead of a Transformer-based model is due to RAG’s flexibility without the need for extensive fine-tuning.
-In addition, the methodology was updated to the following: 
-Data Preprocessing to Exploratory and Statistical Analysis to Embedding Generation to Retrieval to Prompt Engineering to Text Generation (Using LLMs) to Evaluation
+Since Milestone 1, the project has evolved from a traditional Transformer-based summarization approach toward a **prompt-driven Generative AI architecture grounded in structured hospital evidence**.
 
-#########################################################################
+The original proposal considered models such as BART and FLAN-T5 and later explored a Retrieval-Augmented Generation (RAG) approach. As development progressed, the methodology was refined to focus on structured evidence selection and prompt engineering rather than requiring separate fine-tuned models or a traditional vector-database retrieval system.
+
+This change better supports the project's primary research objective: determining whether the **same factual hospital performance information can be communicated effectively to different audiences through prompt engineering while preserving factual meaning**.
+
+The final methodology is:
+
+**CMS Data → Preprocessing → Exploratory Analysis → Factual Evidence → Audience-Specific Evidence Selection → Prompt Engineering → LLM Generation → Evaluation → Application**
+
+This approach allows the project to focus on the effect of **prompt design and communication style** while keeping the underlying hospital performance evidence controlled and consistent.
