@@ -1,0 +1,11 @@
+Measure ID,Measure Name,Benchmark Cohort Mean
+OP_18a,ED Time - All Patients,196.2010935601458
+OP_18b,ED Time - General Patients,191.64823815309842
+OP_18c,ED Time - Psychiatric Patients,319.0428954423592
+OP_18d,ED Time - Transfer Patients,357.58987783595114
+OP_23,Head CT Results Within 45 Minutes,71.46092977250247
+SEP_1,Severe Sepsis and Septic Shock Care,62.75151883353585
+SEP_SH_3HR,Septic Shock 3-Hour Bundle,71.20547112462006
+SEP_SH_6HR,Septic Shock 6-Hour Bundle,85.81414790996784
+SEV_SEP_3HR,Severe Sepsis 3-Hour Bundle,79.5370595382746
+SEV_SEP_6HR,Severe Sepsis 6-Hour Bundle,91.85419198055894
