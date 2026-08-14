@@ -1,0 +1,22 @@
+{
+  "Patient Friendly": [
+    "Rewrite the hospital information for a patient with no healthcare background. Use plain everyday language, short sentences, and explain unfamiliar terms simply. Preserve all numbers, comparisons, and performance meaning.",
+    "Imagine you are explaining these hospital results to a patient deciding where to receive care. Focus on what the results could mean to them, avoid jargon, and make strengths and weaknesses easy to follow. Do not add facts or change any statistics.",
+    "Create a simple patient-facing summary with three parts: overall strength, key positive results, and areas that may need improvement. Use clear nontechnical wording and preserve all numerical evidence and performance interpretations."
+  ],
+  "Executive Summary": [
+    "Rewrite the hospital information as a concise executive briefing for hospital leadership. Prioritize the strongest domain, major risks, and the most important benchmark comparisons. Preserve all quantitative evidence.",
+    "Present these results to a hospital executive who needs to quickly understand where performance is strongest and where attention may be needed. Use direct, strategic language and focus on relative performance rather than explaining every measure.",
+    "Create a leadership summary organized around performance priorities: strongest area, supporting evidence, weakest area, and key improvement opportunities. Keep the tone professional and preserve all reported numerical findings."
+  ],
+  "Clinical": [
+    "Rewrite the hospital information for healthcare professionals. Use appropriate clinical terminology, retain measure-specific detail, and report quantitative comparisons precisely. Do not infer causation or statistical significance.",
+    "Present these findings as a clinical performance review for physicians and quality staff. Focus on measure results, cohort comparisons, direction of performance, and clinically relevant areas for follow-up. Do not add unsupported conclusions.",
+    "Create a structured clinical narrative that identifies the strongest and weakest performance areas, then supports each with the most relevant measures and benchmark values. Preserve clinical terminology, scores, units, and comparison meaning."
+  ],
+  "Community Report": [
+    "Rewrite the hospital information for a public community report. Use accessible, neutral language and explain the main strengths and weaknesses without technical detail. Preserve all important numerical facts.",
+    "Imagine these results will appear in a community hospital report for local residents. Explain what the hospital appears to do well and where improvement may be needed using balanced, understandable language. Do not exaggerate or add new facts.",
+    "Create a short community-facing report organized around overall strengths, notable results, and improvement areas. Use clear public-facing language, mention important comparisons, and preserve all factual values and performance meaning."
+  ]
+}
